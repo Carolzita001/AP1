@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1714848525 source:c:\users\carol\ufj\ap1\fundamentos_c\dados_primitivos\calculando_imc\imc\main.c
+	<stdio.h>
+	<stdlib.h>
+

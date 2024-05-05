@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1714924552 source:c:\users\carol\ufj\ap1\fundamentos_c\raio_circunferencia\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
