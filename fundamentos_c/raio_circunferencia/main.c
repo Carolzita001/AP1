@@ -10,7 +10,7 @@ int main()
     printf("\nInsira o raio do circulo: ");
     scanf("%f", &raio);
 
-    area = M_PI * (raio * raio);
+    area = M_PI * pow(raio, 2);
 
     printf("\nA area desse circulo e: %.0f", area);
     return 0;
