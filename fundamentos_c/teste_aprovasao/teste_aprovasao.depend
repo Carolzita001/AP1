@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1715628123 source:c:\users\carol\ufj\ap1\fundamentos_c\teste_aprovasao\main.c
+	<stdio.h>
+	<stdlib.h>
+

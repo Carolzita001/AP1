@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1715804068 source:c:\users\carol\ufj\ap1\fundamentos_c\verificador_n_par\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1715804205 source:c:\users\carol\ufj\ap1\fundamentos_c\calculando_imc\imc\main.c
+	<stdio.h>
+	<stdlib.h>
+
